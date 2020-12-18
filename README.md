@@ -1,4 +1,4 @@
-# encrytion_image
+# encryption_image
 
 Para Ejecutar el Codigo:
 gcc -Wall -pthread encryption.c visual_API.c
